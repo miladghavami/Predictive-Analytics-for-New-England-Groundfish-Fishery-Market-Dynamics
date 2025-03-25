@@ -3,15 +3,6 @@
 ## Project Title 
 * Predictive Analytics for New England Groundfish Fishery Market Dynamics
 
-## Team Members
-* ### Team Lead: Ehsan Haghian 
-- GitHub Classroom: [@project-spring24-Ehsanhaghian](https://github.com/ds5110/project-spring24-Ehsanhaghian.git)
-- Github Username: Ehsanhaghian
-
-* ### Team Member: Milad Ghavami 
-- GitHub Classroom: [@project-spring24-miladg111](https://github.com/ds5110/project-spring24-miladg111.git)
-- Github Username: miladgh111
-
 ## Project Repository
 * The repository for our project is hosted on GitHub Classroom.
 * Repository Link: [@project-spring24-Ehsanhaghian](https://github.com/ds5110/project-spring24-Ehsanhaghian.git)
